@@ -16,7 +16,7 @@ about sharing confidential information.
 ## The initial prompt given to ChatGPT was:
 ```
 Create an HTML and CSS-based application that introduces yourself and includes the following items:
-    Your first and last name
+    Ngoc Quy and Huynh
     The name that you would prefer to be called if that is different from your first name
     Your current or most recent job title
     A summary of your current or most recent job responsibilities
