@@ -1,5 +1,5 @@
 # Introductions (2025)
-Eric Pogue and ChatGPT created this repository as a template for an "Introductions" website.
+
 
 Additional GitHub Page information can be found at [GitHub Pages](https://pages.github.com/). Also, there is a 5-minute 
 [Hello World with GitHub Pages](https://www.lewis.education/?cpsc=sp24-cpsc-20000-002#/activity/hello-world-web-part-1)
