@@ -33,7 +33,7 @@
         <header class="main-info">
             <h1>Your Name: [Ngoc Quy Huynh]</h1>
             <p>Preferred Name: [Quy]</p>
-            <p>Current/Recent Job Title: [Your Job Title]</p>
+            <p>Current/Recent Job Title: [Student]</p>
         </header>
 
         <section class="career">
@@ -58,7 +58,7 @@
 
         <section class="fun-fact">
             <h2>Fun Fact</h2>
-            <p>[easily to forgot something really important]</p>
+            <p>[I an not sure I am a funny person. But I love minion, and I think they develope from mitochrondria once time and I easily to forgot something really important...]</p>
         </section>
     </div>
 </body>
