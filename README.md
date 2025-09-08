@@ -63,3 +63,7 @@
     </div>
 </body>
 </html>
+<div class="main-info">
+    <h2>Fun Fact</h2>
+    <p> Um....
+</div>
