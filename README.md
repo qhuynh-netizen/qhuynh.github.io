@@ -67,3 +67,7 @@
     <h2>Fun Fact</h2>
     <p> Um....
 </div>
+<footer>
+    <p>Last Update on 07/09/2025</p>
+</footer>
+</footer>
